@@ -1,0 +1,18 @@
+{
+	"general": {},
+	"ios": {
+		"profiles": {
+			"DEFAULT": {
+				"provisioning_profile": "/Users/marty/Marty_Dev.mobileprovision"
+			}
+		},
+		"simulatorsdk": "7.0",
+		"simulatorfamily": "iphone",
+		"device": "device"
+	},
+	"android": {
+		"profiles": {
+			"DEFAULT": {}
+		}
+	}
+}
